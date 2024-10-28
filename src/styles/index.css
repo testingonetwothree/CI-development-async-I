@@ -1,0 +1,33 @@
+/* @import url("./reset.css"); */
+/* @import url("./base.css"); */
+
+.cam {
+  width: 80%;
+  position: absolute;
+  left: 10%;
+}
+
+#bg {
+  width: 100%;
+}
+#car {
+  width: 20%;
+  position: absolute;
+  bottom: 25%;
+  right: 25%;
+  filter: blur(0.6px);
+}
+#turn {
+  width: 4%;
+  position: absolute;
+  bottom: 39.1%;
+  left: 48%;
+  filter: blur(1px);
+}
+#player {
+  width: 40%;
+  position: absolute;
+  bottom: 10%;
+  left: 20%;
+  filter: blur(0.3px);
+}
